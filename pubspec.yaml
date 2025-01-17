@@ -20,8 +20,8 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: pl.pszklarska.beaconbroadcast
-        pluginClass: BeaconBroadcastPlugin
+#      android:
+#        package: pl.pszklarska.beaconbroadcast
+#        pluginClass: BeaconBroadcastPlugin
       ios:
         pluginClass: BeaconBroadcastPlugin
